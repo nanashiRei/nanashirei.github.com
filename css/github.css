@@ -6346,8 +6346,8 @@ body {
 .bg-white {
   background-color: #ffffff;
   color: #555555;
-  padding-bottom: 15px;
-  padding-top: 15px;
+  padding-bottom: 30px;
+  padding-top: 30px;
 }
 footer:before {
   content: " ";
@@ -6364,12 +6364,12 @@ footer {
 }
 footer > .container {
   border-top: 2px solid #ffa500;
-  padding-top: 15px;
+  padding-top: 30px;
 }
-.attribution {
+.attribution > h3 {
   text-align: center;
   color: #180a00;
 }
-footer:hover .attribution {
+footer:hover .attribution > h3 {
   color: #ff7518;
 }
