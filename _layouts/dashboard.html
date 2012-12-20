@@ -10,6 +10,46 @@
     <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.1.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-{{ content }}
+
+<div class="navbar navbar-inverse">
+    <div class="navbar-inner">
+        <div class="container" style="width: auto;">
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </a>
+            <a class="brand" href="#">nanashiRei's GitHub</a>
+            <div class="nav-collapse">
+                <ul class="nav">
+                    <li class="active"><a href="#">Dashboard</a></li>
+                    <li><a href="#">IrcBot</a></li>
+                    <li><a href="#">About me</a></li>
+                    <li><a href="#">YaS</a></li>
+                </ul>
+                <ul class="nav pull-right">
+                    <li><a href="http://neic0.de">Neico</a></li>
+                    <li class="divider-vertical"></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Socialize <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#"><i class="icon-twitter"></i> Twitter</a></li>
+                            <li><a href="#"><i class="icon-facebook"></i> Facebook</a></li>
+                            <li><a href="#"><i class="icon-github"></i> GitHub</a></li>
+                            <li><a href="#"><i class="icon-google"></i> Google+</a></li>
+                            <li class="divider"></li>
+                            <li><a href="#"><i class="icon-comment"></i> ICQ/MSN/Jabber</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div><!-- /.nav-collapse -->
+        </div>
+    </div><!-- /navbar-inner -->
+</div>
+
+<div class="container">
+    {{ content }}
+</div>
+
 </body>
 </html>
