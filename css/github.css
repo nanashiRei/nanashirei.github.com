@@ -6378,6 +6378,10 @@ footer:hover .attribution > h3 {
   color: #eeeeee;
 }
 .pane > p {
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.pane > ul.nav > li {
+  margin-left: 10px;
+  margin-right: 10px;
 }
