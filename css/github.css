@@ -6382,3 +6382,27 @@ footer:hover .attribution > h3 {
   padding-left: 10px;
   padding-right: 10px;
 }
+.text-blue {
+  color: #007fff;
+}
+.text-blueDark {
+  color: #1f26b6;
+}
+.text-green {
+  color: #3fb618;
+}
+.text-red {
+  color: #ff0039;
+}
+.text-yellow {
+  color: #ffa500;
+}
+.text-orange {
+  color: #ff7518;
+}
+.text-pink {
+  color: #e671b8;
+}
+.text-purple {
+  color: #9954bb;
+}
