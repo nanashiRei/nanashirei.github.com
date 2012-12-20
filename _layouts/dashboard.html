@@ -25,13 +25,13 @@
             <a class="brand" href="#"><i class="icon-cogs"></i> nanashiRei's <i class="icon-github"></i> GitHub</a>
             <div class="nav-collapse">
                 <ul class="nav">
-                    <li class="active"><a href="#">Dashboard</a></li>
+                    <li class="active"><a href="#"><i class="icon-th-large"></i> Dashboard</a></li>
                     <li><a href="#"><i class="icon-beaker"></i> IrcBot</a></li>
                     <li><a href="#"><i class="icon-user"></i> About me</a></li>
                     <li><a href="#"><i class="icon-arrow-right-sign"></i> YaS</a></li>
                 </ul>
                 <ul class="nav pull-right">
-                    <li><a href="http://neic0.de">Neico</a></li>
+                    <li><a href="http://neic0.de"><i class="icon-search"></i> Neico</a></li>
                     <li class="divider-vertical"></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Socialize <b class="caret"></b></a>
@@ -50,12 +50,25 @@
     </div><!-- /navbar-inner -->
 </div>
 
-<div class="container">
-    <div class="page-header">
-        <h1>{{ page.title }}</h1>
+<div class="bg-white">
+    <div class="container">
+        <div class="page-header">
+            <h1>{{ page.title }}</h1>
+        </div>
+        {{ content }}
     </div>
-    {{ content }}
 </div>
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="span3"></div>
+            <div class="span3"></div>
+            <div class="span3"></div>
+            <div class="span3"></div>
+        </div>
+    </div>
+</footer>
 
 </body>
 </html>
