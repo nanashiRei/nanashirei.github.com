@@ -6373,3 +6373,11 @@ footer > .container {
 footer:hover .attribution > h3 {
   color: #ff7518;
 }
+.pane {
+  background-color: #080808;
+  color: #eeeeee;
+}
+.pane > p {
+  padding-left: 5px;
+  padding-right: 5px;
+}
