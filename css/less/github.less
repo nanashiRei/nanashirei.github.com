@@ -4,10 +4,39 @@
 @import "fontawesome";
 @import "bootstrap/utilities";
 
+body {
+  background-color: @grayDarker;
+  color: @grayDark;
+}
+
 .dashboard-carousel {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   width: auto;
   height: 350px;
+}
+
+.bg-white {
+  background-color: @bodyBackground;
+  color: @textColor;
+  padding-bottom: 15px;
+}
+
+footer {
+  border-top: 1px solid @red, 1px solid @green, 1px solid @blue, 1px solid @yellow;
+  font-size: 90%;
+}
+
+footer > .container {
+  padding-top: 15px;
+}
+
+.attribution {
+  text-align: center;
+  color: darken(@orange, 50%);
+}
+
+footer:hover .attribution {
+  color: @orange;
 }
