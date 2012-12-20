@@ -6377,11 +6377,8 @@ footer:hover .attribution > h3 {
   background-color: #080808;
   color: #eeeeee;
 }
-.pane > p {
+.pane p,
+.pane ul.nav > li {
   padding-left: 10px;
   padding-right: 10px;
-}
-.pane > ul.nav > li {
-  margin-left: 10px;
-  margin-right: 10px;
 }
