@@ -4584,12 +4584,12 @@ a.badge:hover {
   margin-top: -20px;
   font-size: 40px;
   font-weight: 100;
-  line-height: 30px;
+  line-height: 40px;
   color: #999999;
   text-align: center;
   background: #080808;
-  opacity: 0.5;
-  filter: alpha(opacity=50);
+  opacity: 0.4;
+  filter: alpha(opacity=40);
 }
 .carousel-control.right {
   left: auto;
