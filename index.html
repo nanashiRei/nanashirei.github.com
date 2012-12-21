@@ -3,42 +3,46 @@ layout: dashboard
 title: Dashboard
 ---
 
-<div class="bg-grey">
-    <div class="container">
-        <div class="row">
-            <div class="span12">
-                <div id="myCarousel" class="carousel slide" style="margin-bottom: 0;">
-                    <!-- Carousel items -->
-                    <div class="carousel-inner">
 
-                        <div class="active item">
-                            <div class="dashboard-carousel" style="background-image: url(http://pics.nanashirei.me/data/images/2012/12/slide-hotcode.jpg);"></div>
-                            <div class="carousel-caption">
-                                <h4>Hot code!</h4>
-                                <p>Get hacking, my coding friends! It's winter time, so we have all the time in the world,
-                                    because it's to frickn' cold outside!</p>
+
+<div class="bg-white" ng-app="ContentApp" ng-controller="MainController">
+
+    <div class="bg-grey" style="padding: 0;">
+        <div class="container">
+            <div class="row">
+                <div class="span12">
+                    <div id="myCarousel" class="carousel slide" style="margin-bottom: 0;">
+                        <!-- Carousel items -->
+                        <div class="carousel-inner">
+
+                            <div class="active item">
+                                <div class="dashboard-carousel" style="background-image: url(http://pics.nanashirei.me/data/images/2012/12/slide-hotcode.jpg);"></div>
+                                <div class="carousel-caption">
+                                    <h4>Hot code!</h4>
+                                    <p>Get hacking, my coding friends! It's winter time, so we have
+                                        all the time in the world, because it's to frickn' cold
+                                        outside!</p>
+                                </div>
                             </div>
-                        </div>
 
-                        <div class="item">
-                            <div class="dashboard-carousel" style="background-image: url(http://pics.nanashirei.me/data/images/2012/12/moe2011781.png);"></div>
-                            <div class="carousel-caption">
-                                <h4>Some random anime girl</h4>
-                                <p>I needed some test picture so i added this!</p>
+                            <div class="item">
+                                <div class="dashboard-carousel" style="background-image: url(http://pics.nanashirei.me/data/images/2012/12/moe2011781.png);"></div>
+                                <div class="carousel-caption">
+                                    <h4>Some random anime girl</h4>
+                                    <p>I needed some test picture so i added this!</p>
+                                </div>
                             </div>
-                        </div>
 
+                        </div>
+                        <!-- Carousel nav -->
+                        <a class="carousel-control left" href="#myCarousel" data-slide="prev"><i class="icon-chevron-left"></i></a>
+                        <a class="carousel-control right" href="#myCarousel" data-slide="next"><i class="icon-chevron-right"></i></a>
                     </div>
-                    <!-- Carousel nav -->
-                    <a class="carousel-control left" href="#myCarousel" data-slide="prev"><i class="icon-chevron-left"></i></a>
-                    <a class="carousel-control right" href="#myCarousel" data-slide="next"><i class="icon-chevron-right"></i></a>
                 </div>
             </div>
         </div>
     </div>
-</div>
 
-<div class="bg-white" ng-app="ContentApp" ng-controller="MainController">
     <div class="container" ng-view>
 
         <div class="page-header">
