@@ -7,22 +7,22 @@
 
 These libraries are included in almost all of my projects. Make sure you check them out, someday!
 
-notextile.. <ul class="nav nav-pills nav-stacked" id="library-list">
-    <li><a href="http://twitter.github.com/bootstrap"><i class="icon-twitter"></i> Twitter Bootstrap</a></li>
-    <li><a href="http://fontawesome.github.com/FontAwesome"><i class="icon-flag"></i> Font Awesome</a></li>
-    <li><a href="http://symfony.org"><i class="icon-cogs"></i> Symfony 2</a></li>
-    <li><a href="http://jquery.com"><i class="icon-wrench"></i> jQuery</a></li>
-    <li><a href="http://angularjs.org"><i class="icon-globe"></i> AngularJS</a></li>
-    <li><a href="http://modernizr.com"><i class="icon-arrow-up"></i> Modernizr</a></li>
+<ul class="nav nav-pills nav-stacked" id="library-list">
+<li><a href="http://twitter.github.com/bootstrap"><i class="icon-twitter"></i> Twitter Bootstrap</a></li>
+<li><a href="http://fontawesome.github.com/FontAwesome"><i class="icon-flag"></i> Font Awesome</a></li>
+<li><a href="http://symfony.org"><i class="icon-cogs"></i> Symfony 2</a></li>
+<li><a href="http://jquery.com"><i class="icon-wrench"></i> jQuery</a></li>
+<li><a href="http://angularjs.org"><i class="icon-globe"></i> AngularJS</a></li>
+<li><a href="http://modernizr.com"><i class="icon-arrow-up"></i> Modernizr</a></li>
 </ul>
 
 
 Without them? %(badge badge-warning)No way!% I wouldn't be able to live without them, anymore!
 
-notextile.. <ul class="nav nav-pills nav-stacked" id="app-list">
-    <li><a href="http://jetbrains.com/phpstorm"><i class="icon-circle-arrow-right"></i> PhpStorm 6.0 EAP</a></li>
-    <li><a href="http://notepad-plus-plus.org"><i class="icon-edit"></i> Notepad++</a></li>
-    <li><a href="http://adobe.com/photoshop"><i class="icon-camera"></i> PhotoShop CS6</a></li>
+<ul class="nav nav-pills nav-stacked" id="app-list">
+<li><a href="http://jetbrains.com/phpstorm"><i class="icon-circle-arrow-right"></i> PhpStorm 6.0 EAP</a></li>
+<li><a href="http://notepad-plus-plus.org"><i class="icon-edit"></i> Notepad++</a></li>
+<li><a href="http://adobe.com/photoshop"><i class="icon-camera"></i> PhotoShop CS6</a></li>
 </ul>
 
 
