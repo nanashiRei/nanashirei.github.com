@@ -3,10 +3,13 @@
 h2(clearfix text-purple). %(label label-info pull-left){margin-right:10px;}Code% Languages & People
 
 Hi, I'm nanashiRei, a professional web developer focusing on client UI and everything related to HTML5. My most used languages are:
+
+<p>
     %(badge badge-info)HTML/CSS%
     %(badge badge-warning)SQL%
     %(badge badge-success)JavaScript%
     %(badge badge-important)PHP%
+</p>
 
 *Hold on!* These 4 languages are my favorites, but this doesn't mean i don't know other languages. In fact i know %(badge)much more!% I've been working with PHP since 2002 and created my first website back in 2003.
 
