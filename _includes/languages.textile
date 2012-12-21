@@ -1,7 +1,3 @@
----
-title: Languages & People
----
-
 <div class="span4 pane">
 
 h2(clearfix.text-purple).
