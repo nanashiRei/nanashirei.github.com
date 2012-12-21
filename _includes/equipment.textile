@@ -1,13 +1,16 @@
 <div class="span4 pane">
 
 <h2 class="clearfix text-red">
+
     %(label label-important pull-left){margin-right:10px}Equipment%
     Applications & Libraries
+
 </h2>
 
 These libraries are included in almost all of my projects. Make sure you check them out, someday!
 
 ul(nav nav-pills nav-stacked).
+
     * "_(icon-twitter)_ Twitter Bootstrap":http://twitter.github.com/bootstrap
     * "_(icon-flag)_ Font Awesome":http://fontawesome.github.com/FontAwesome
     * "_(icon-cogs)_ Symfony 2":http://symfony.org
@@ -17,11 +20,12 @@ ul(nav nav-pills nav-stacked).
 
 Without them? %(badge badge-warning)No way!% I wouldn't be able to live without them, anymore!
 
-<!--<p><a href="#app-list" data-toggle="collapse">more...</a></p>-->
 <ul class="nav nav-pills nav-stacked" id="app-list">
+
     <li><a href="http://jetbrains.com/phpstorm"><i class="icon-circle-arrow-right"></i> PhpStorm 6.0 EAP</a></li>
     <li><a href="http://notepad-plus-plus.org"><i class="icon-edit"></i> Notepad++</a></li>
     <li><a href="http://adobe.com/photoshop"><i class="icon-camera"></i> PhotoShop CS6</a></li>
+
 </ul>
 
 </div>
