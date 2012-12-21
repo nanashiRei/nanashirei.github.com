@@ -8,7 +8,7 @@
 These libraries are included in almost all of my projects. Make sure you check them out, someday!
 
 notextile.. <ul class="nav nav-pills nav-stacked" id="library-list">
-    <a href="http://twitter.github.com/bootstrap"><i class="icon-twitter"></i> Twitter Bootstrap</a></li>
+    <li><a href="http://twitter.github.com/bootstrap"><i class="icon-twitter"></i> Twitter Bootstrap</a></li>
     <li><a href="http://fontawesome.github.com/FontAwesome"><i class="icon-flag"></i> Font Awesome</a></li>
     <li><a href="http://symfony.org"><i class="icon-cogs"></i> Symfony 2</a></li>
     <li><a href="http://jquery.com"><i class="icon-wrench"></i> jQuery</a></li>
