@@ -1,7 +1,7 @@
 <div class="span4 pane">
 
-h2(clearfix text-purple).
-    %(label label-info pull-left){margin-right:10px;}Code%
+h2(clearfix.text-purple).
+    %(label.label-info pull-left){margin-right:10px;}Code%
     Languages & People
 
 Hi, I'm nanashiRei, a professional web developer focusing on client UI and everything related to HTML5. My most
