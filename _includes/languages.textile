@@ -1,31 +1,39 @@
 <div class="span4 pane">
 
-h2(clearfix text-purple). %(label label-info pull-left){margin-right:10px;}Code% Languages & People
+h2(clearfix text-purple).
+    %(label label-info pull-left){margin-right:10px;}Code%
+    Languages & People
 
-Hi, I'm nanashiRei, a professional web developer focusing on client UI and everything related to HTML5. My most
-used languages are:
+Hi, I'm nanashiRei, a professional web developer focusing
+on client UI and everything related to HTML5. My most used
+languages are:
 
-%(badge badge-info)HTML/CSS%
-%(badge badge-warning)SQL%
-%(badge badge-success)JavaScript%
-%(badge badge-important)PHP%
+    %(badge badge-info)HTML/CSS%
+    %(badge badge-warning)SQL%
+    %(badge badge-success)JavaScript%
+    %(badge badge-important)PHP%
 
-*Hold on!* These 4 languages are my favorites, but this doesn't mean i don't know other languages. In fact i know
-%(badge)much more!% I've been working with PHP since 2002 and created my first website back in 2003.
+*Hold on!* These 4 languages are my favorites, but this
+doesn't mean i don't know other languages. In fact i know
+%(badge)much more!% I've been working with PHP since 2002
+and created my first website back in 2003.
 
-I've got some powerful backup in store, in case it's needed. Let me give you a brief overview.
+I've got some powerful backup in store, in case it's needed.
+Let me give you a brief overview.
 
 p(lead text-green). Neico,
 
-is a skilled programmer that focuses on compiler languages. His motivation, above all other, is the desire to
-create games. But, like myself, he is a multitalent, doing his wizardry with:
+is a skilled programmer that focuses on compiler languages.
+His motivation, above all other, is the desire to create games.
+But, like myself, he is a multitalent, doing his wizardry with:
 
-%(badge badge-info)C++%
-%(badge badge-warning)Lua%
-%(badge badge-success)Java%
-%(badge badge-important)SQL%
+    %(badge badge-info)C++%
+    %(badge badge-warning)Lua%
+    %(badge badge-success)Java%
+    %(badge badge-important)SQL%
 
-Basic HTML, CSS, JavaScript and PHP is no problem either, but he lacks experiance with them.
+Basic HTML, CSS, JavaScript and PHP is no problem either,
+but he lacks experiance with them.
 
 "Neico's Blog (inaktive)":http://neic0.de
 
