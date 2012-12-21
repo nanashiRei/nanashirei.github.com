@@ -7,7 +7,8 @@
 
 These libraries are included in almost all of my projects. Make sure you check them out, someday!
 
-*(nav nav-pills nav-stacked) "_(icon-twitter)_ Twitter Bootstrap":http://twitter.github.com/bootstrap
+ul(nav nav-pills nav-stacked).
+* "_(icon-twitter)_ Twitter Bootstrap":http://twitter.github.com/bootstrap
 * "_(icon-flag)_ Font Awesome":http://fontawesome.github.com/FontAwesome
 * "_(icon-cogs)_ Symfony 2":http://symfony.org
 * "_(icon-wrench)_ jQuery":http://jquery.com
