@@ -16,6 +16,7 @@ notextile.. <ul class="nav nav-pills nav-stacked" id="library-list">
     <li><a href="http://modernizr.com"><i class="icon-arrow-up"></i> Modernizr</a></li>
 </ul>
 
+
 Without them? %(badge badge-warning)No way!% I wouldn't be able to live without them, anymore!
 
 notextile.. <ul class="nav nav-pills nav-stacked" id="app-list">
@@ -23,5 +24,6 @@ notextile.. <ul class="nav nav-pills nav-stacked" id="app-list">
     <li><a href="http://notepad-plus-plus.org"><i class="icon-edit"></i> Notepad++</a></li>
     <li><a href="http://adobe.com/photoshop"><i class="icon-camera"></i> PhotoShop CS6</a></li>
 </ul>
+
 
 </div>
