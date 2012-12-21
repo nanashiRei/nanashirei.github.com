@@ -1,2 +1,2 @@
-#markdown: maruku
-#pygments: true
+markdown: rdiscount
+pygments: true
