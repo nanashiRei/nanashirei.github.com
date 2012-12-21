@@ -1,8 +1,12 @@
+---
+title: Languages & People
+---
+
 <div class="span4 pane">
 
 h2(clearfix.text-purple).
     %(label.label-info pull-left){margin-right:10px;}Code%
-    Languages & People
+    {{ page.title }}
 
 Hi, I'm nanashiRei, a professional web developer focusing on client UI and everything related to HTML5. My most
 used languages are:
