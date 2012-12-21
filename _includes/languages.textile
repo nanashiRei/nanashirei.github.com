@@ -1,6 +1,9 @@
 <div class="span4 pane">
 
-h2(clearfix text-purple). %(label label-info pull-left){margin-right:10px;}Code% Languages & People
+<h2 class="clearfix text-purple">
+    %(label label-info pull-left){margin-right:10px;}Code%
+    Languages & People
+</h2>
 
 Hi, I'm nanashiRei, a professional web developer focusing on client UI and everything related to HTML5. My most used languages are:
 
@@ -18,10 +21,13 @@ I've got some powerful backup in store, in case it's needed. Let me give you a b
 p(lead text-green). Neico,
 
 is a skilled programmer that focuses on compiler languages. His motivation, above all other, is the desire to create games. But, like myself, he is a multitalent, doing his wizardry with:
+
+<p>
     %(badge badge-info)C++%
     %(badge badge-warning)Lua%
     %(badge badge-success)Java%
     %(badge badge-important)SQL%
+</p>
 
 Basic HTML, CSS, JavaScript and PHP is no problem either, but he lacks experiance with them.
 
